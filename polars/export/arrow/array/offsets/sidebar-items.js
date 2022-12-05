@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ValidOffsets","Offsets that have the invariant that they are monotonically increasing."]]};
